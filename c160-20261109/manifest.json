@@ -1,0 +1,569 @@
+{
+  "version": "c160-20261109",
+  "files": {
+    "campaign/assets/battlement-v1.png": {
+      "bytes": 3637733,
+      "sha256": "e2eab15d062d6a27500c53a21ea9e274093590e7ccbf7b350e3ee6273b286898"
+    },
+    "campaign/assets/boiler-c133/attack-00-01.webp": {
+      "bytes": 2237008,
+      "sha256": "1bfb780ca1d1c9f3c81356437d0455d71260543c95f4d0a62c06b4221582c8de"
+    },
+    "campaign/assets/boiler-c133/attack-02-03.webp": {
+      "bytes": 2050452,
+      "sha256": "901cabff9662c9e484103c702197a9052a91074eb69387e69dfc5dcec12e2d3f"
+    },
+    "campaign/assets/boiler-c133/attack-04-05.webp": {
+      "bytes": 2151782,
+      "sha256": "59559d9cde5a464cd54f96a45dc836b7ca98fd69862e56010f6206f51536bf26"
+    },
+    "campaign/assets/boiler-c133/attack-06-07.webp": {
+      "bytes": 2161138,
+      "sha256": "1ddbaa9f1c52fc7c9fa8a85a4920572421bf7e7f2db60170665aff5cfe4d8e7e"
+    },
+    "campaign/assets/boiler-c133/core-open.webp": {
+      "bytes": 1181940,
+      "sha256": "a43ba57c9850eaa6cd43ff7ac43661276eb726a163a0031df04e94ada282c2fa"
+    },
+    "campaign/assets/boiler-c133/manifest.json": {
+      "bytes": 5562,
+      "sha256": "33a81104fa42d7cb711ad51c3c79a410d657ea15c88f3b36b8c3023a638f1e19"
+    },
+    "campaign/assets/boiler-c133/walk-00-01.webp": {
+      "bytes": 2236568,
+      "sha256": "4fba4015388d68936c218c5034e98a03641e52b978f3f125b55a4d2cb081cbcb"
+    },
+    "campaign/assets/boiler-c133/walk-02-03.webp": {
+      "bytes": 2307548,
+      "sha256": "e4cbd4ece08d62fdbcd9e1838d00c14db29225ae4ab77415d642d9ca13724c14"
+    },
+    "campaign/assets/boiler-c133/walk-04-05.webp": {
+      "bytes": 2273626,
+      "sha256": "435b1f8b714c29aaa011f02f29f4dabaf9cfce66e4b950ecaeba06d17fc980bc"
+    },
+    "campaign/assets/boiler-c133/walk-06-07.webp": {
+      "bytes": 2221494,
+      "sha256": "a5d47fcf1c8d287053e5c04120cfaf7b59d328952a875a06b7323a8f17b2029d"
+    },
+    "campaign/assets/boss-c127/attack-00-01.webp": {
+      "bytes": 2080956,
+      "sha256": "3db7d28e0d05a8d44b7dd24e5b0c336d2987ab6383712ad2def6787d60328970"
+    },
+    "campaign/assets/boss-c127/attack-02-03.webp": {
+      "bytes": 1862800,
+      "sha256": "e66410f0c71519654a47d96892eb56dca0d356bfb5f36896b1b0b874356d5c42"
+    },
+    "campaign/assets/boss-c127/attack-04-05.webp": {
+      "bytes": 2294772,
+      "sha256": "bd1d6ec8a0a50b667a62953df4b004de8a585f8e0bf0709503cabb20e2fad3ba"
+    },
+    "campaign/assets/boss-c127/attack-06-07.webp": {
+      "bytes": 2142048,
+      "sha256": "20188abdc4e12b4cbc1fdb8671290f22beea72c6132de5fff0d4d4667535e78f"
+    },
+    "campaign/assets/boss-c127/manifest.json": {
+      "bytes": 3114,
+      "sha256": "e285dfa6db3916a29b8571e3bba1986b613d6c605734cbf74dec851285b2ebd4"
+    },
+    "campaign/assets/crane-c134/attack-00-01.webp": {
+      "bytes": 2049910,
+      "sha256": "51458a330918f16558239d155b07c819dd3b8c29adfd537d6280764601dc84a6"
+    },
+    "campaign/assets/crane-c134/attack-02-03.webp": {
+      "bytes": 1863072,
+      "sha256": "6e98c527b01aef60b379b8724f930b5328b4a060308d22c80be25a2d0cb093c0"
+    },
+    "campaign/assets/crane-c134/attack-04-05.webp": {
+      "bytes": 1812836,
+      "sha256": "edfe7ddb3f667bb0d74054278b0cf06fd30ac545d8a82ecf4f8f11c1fc455b71"
+    },
+    "campaign/assets/crane-c134/attack-06-07.webp": {
+      "bytes": 1622768,
+      "sha256": "65d3adea22eb55c9dfa996893532c9db983ba63aaa2cb1aee0a808d6c8e9c075"
+    },
+    "campaign/assets/crane-c134/attack-08-09.webp": {
+      "bytes": 1616932,
+      "sha256": "65b8daa87ab3e88ea675ff0d75640465b8f48b8bf897883d92880df8b255cde8"
+    },
+    "campaign/assets/crane-c134/attack-10-11.webp": {
+      "bytes": 1807708,
+      "sha256": "dea8af74a2ac822d527cceb8fd645633b4ca6791193f1c4d7ce265c613a7d484"
+    },
+    "campaign/assets/crane-c134/attack-12-13.webp": {
+      "bytes": 1984700,
+      "sha256": "f0ba7fae0115496809a27803ad4e475ba68a3612f6a081b2052633547a77faf3"
+    },
+    "campaign/assets/crane-c134/attack-14-15.webp": {
+      "bytes": 1970696,
+      "sha256": "01a714bef7fafa730917fad4c0165749ff990374e7055548eb89dc9d75afa7d9"
+    },
+    "campaign/assets/crane-c134/manifest.json": {
+      "bytes": 5686,
+      "sha256": "221062383f020c7460ddf0091014349baa075803b16111eb69d202fe7f884d2a"
+    },
+    "campaign/assets/dragon-c130/attack-00-01.webp": {
+      "bytes": 2326828,
+      "sha256": "65a097831d105e2d4349b0af343a1a04f5f879c3893cda0b2fd2d1a9fb65904b"
+    },
+    "campaign/assets/dragon-c130/attack-02-03.webp": {
+      "bytes": 2425606,
+      "sha256": "e5e54054b9de5587b6a5df00bbfb30c1b8383be2a1d559c07d9bd0aed5315a30"
+    },
+    "campaign/assets/dragon-c130/attack-04-05.webp": {
+      "bytes": 2476532,
+      "sha256": "e264356e3d0247685d495991c35b9683e7917757ae6edf0c18a17815c4fe9d8d"
+    },
+    "campaign/assets/dragon-c130/attack-06-07.webp": {
+      "bytes": 2333844,
+      "sha256": "c60d49d4915841f468170cc960a9e6807e55acddcd056ac3500f9eb74a7a5afa"
+    },
+    "campaign/assets/dragon-c130/attack-08-09.webp": {
+      "bytes": 2694436,
+      "sha256": "586969c6e9c2f1cc3f34b657060ee1f3d35afa0209265178de5edea2d9457dae"
+    },
+    "campaign/assets/dragon-c130/attack-10-11.webp": {
+      "bytes": 2524322,
+      "sha256": "b9da583b5fce72a89a644edea05890cbe9fe40016d4f4dbe4eff7260c3b31ac8"
+    },
+    "campaign/assets/dragon-c130/manifest.json": {
+      "bytes": 3328,
+      "sha256": "1e0a804f14c92acef461627ebce69c9823a4c4d5d0fb9fd77fae9020083d1366"
+    },
+    "campaign/assets/final-dawn-v1.png": {
+      "bytes": 4027134,
+      "sha256": "1ae716ba7b974e249e5c0ef7a1abcdfed037098afb17f13e6dfe312ea133f8df"
+    },
+    "campaign/assets/final-hall-v1.png": {
+      "bytes": 3878819,
+      "sha256": "565b5f32db49f61641b755278a2193b3a9814d7ad1ced689b41adb971edd3626"
+    },
+    "campaign/assets/final-matrix-v1.png": {
+      "bytes": 3041416,
+      "sha256": "fb5361c3e21459245b00548d52925945ea61346898fad22e4e19d5dcd647156e"
+    },
+    "campaign/assets/gate-beast-attack-v1.png": {
+      "bytes": 2975767,
+      "sha256": "b26a213e05a89e2d69355cccc984d1a48567505a961371a4cc0a2af2bcce023f"
+    },
+    "campaign/assets/gate-portal-c122-v2.png": {
+      "bytes": 2725156,
+      "sha256": "5e4de69bf42a59e7bc3c930f42b16d71dcfbd08e4eedba16c1f2844812e5e269"
+    },
+    "campaign/assets/guard-attack-v1.png": {
+      "bytes": 2454133,
+      "sha256": "93f31c64345c216f492770813848998e6b3fdb9c11d6c1facdc451039106bac8"
+    },
+    "campaign/assets/guard-walk-v1.png": {
+      "bytes": 2576012,
+      "sha256": "24db8e1ee2380c5f4326c76e6bb57721687f7e122633e3187de5bb23d3866065"
+    },
+    "campaign/assets/harbor-boiler-attack-v1.png": {
+      "bytes": 2489677,
+      "sha256": "e6cb9ab5364742d1c9af5d7480d82a19c9542f1ad617ac81548ab4d15224070f"
+    },
+    "campaign/assets/harbor-boiler-walk-v1.png": {
+      "bytes": 2482249,
+      "sha256": "dfa3b7494b86a8e237ba46e396ed5f7902f2d7208b31edb36ee5d1fdb248d4b3"
+    },
+    "campaign/assets/harbor-crane-attack-v1.png": {
+      "bytes": 2538993,
+      "sha256": "25283748d5bc7f99d5994d38949479af7ceaf3760d3e1a295661369ffd1a7290"
+    },
+    "campaign/assets/harbor-dock-v1.png": {
+      "bytes": 3942915,
+      "sha256": "2864b9417d4d04b01fa2f53b16262b51582acd8ffa678e92142384229f39d91e"
+    },
+    "campaign/assets/harbor-paper-attack-v2.png": {
+      "bytes": 2039530,
+      "sha256": "d86bed1a86fddee6dc7c6e601b18d8fba1eb3c7e4300bbd0e6360611032c8b38"
+    },
+    "campaign/assets/harbor-paper-walk-v1.png": {
+      "bytes": 2273245,
+      "sha256": "0719c7605aed270b86464a32b17135b7bc2b9f9314bb94512093d0375963ed6b"
+    },
+    "campaign/assets/harbor-street-v1.png": {
+      "bytes": 4043754,
+      "sha256": "1f31b8943ebff1b7e48797f594562ae58a91948561da224204d492efeb1b075b"
+    },
+    "campaign/assets/harbor-warehouse-v1.png": {
+      "bytes": 3868122,
+      "sha256": "6bda4eed8672912f71ad08334244b71fadd2b80f0fcd0c03bd904ca3962a28b0"
+    },
+    "campaign/assets/harbor-wheel-attack-v1.png": {
+      "bytes": 2376957,
+      "sha256": "35b6175ab129f932cfde4dafc332128e93178f26346671f73d72a0bda5e71019"
+    },
+    "campaign/assets/harbor-wheel-walk-v1.png": {
+      "bytes": 2570664,
+      "sha256": "2448d039613e885a0698dd6ae3dac32c941fa4ff53ec802c8a439b452f5cb58d"
+    },
+    "campaign/assets/harbor-yard-v1.png": {
+      "bytes": 3768433,
+      "sha256": "5e17ae670db5f1e9b51739035cce9baa1611202b806583e6170e631ce31f7bff"
+    },
+    "campaign/assets/hd-c123/manifest.json": {
+      "bytes": 6509,
+      "sha256": "9a71ec7b7e72a2016b6a06c4ffbbd2ccc6bddaa5bf2377662c6bcfb01eb8bec8"
+    },
+    "campaign/assets/hd-c126/guard-attack-01-02.webp": {
+      "bytes": 1577458,
+      "sha256": "f2026dca8b4428579e1a5effea924a19d3ec3c5409aea56f5f7f70ad11e7d0d5"
+    },
+    "campaign/assets/hd-c126/guard-attack-03-04.webp": {
+      "bytes": 1837048,
+      "sha256": "ac62f8c831836e9f36cbd978a3f922b458a153bd658562b6a551c432d9233724"
+    },
+    "campaign/assets/hd-c126/guard-attack-05-06.webp": {
+      "bytes": 1445292,
+      "sha256": "4872dda1398b3677e9e9f17b0bd05c5eed63988f72674fc002cb89579026ef0a"
+    },
+    "campaign/assets/hd-c126/guard-attack-07-08.webp": {
+      "bytes": 1547638,
+      "sha256": "f20e482cfc528e21d87beacf845239d44551189e8c28db6d7cf217cb8440962f"
+    },
+    "campaign/assets/hd-c126/guard-walk-01-02.webp": {
+      "bytes": 1816520,
+      "sha256": "350e00b9665be1ed078a92ac0b36a2c9d9f3a4ae9fab9ce10e6748524aafaa0f"
+    },
+    "campaign/assets/hd-c126/guard-walk-03-04.webp": {
+      "bytes": 1951766,
+      "sha256": "65435969ebdc567d9bde277953908a64409989e7eddf81a8c4d8ec70d1ea23b6"
+    },
+    "campaign/assets/hd-c126/guard-walk-05-06.webp": {
+      "bytes": 1858442,
+      "sha256": "6b60dc125844421f414d3f59f011a65a06928f3492a8d599c2e281acb9054ff3"
+    },
+    "campaign/assets/hd-c126/guard-walk-07-08.webp": {
+      "bytes": 1969164,
+      "sha256": "329104614f9f23958801891cbcb86bed96a8f32b56de855eb9b97ee736fe8a01"
+    },
+    "campaign/assets/hd-c126/ink-attack-01-02.webp": {
+      "bytes": 1977558,
+      "sha256": "d4fdcc96f704b35e963b1bb21b4e5e4c7d2823c3d9f68317136edfd80eb00875"
+    },
+    "campaign/assets/hd-c126/ink-attack-03-04.webp": {
+      "bytes": 2075488,
+      "sha256": "c8966a7ca5a5caf95d10537a20f230aa3fe9da823f087956895fc72f8f67cba0"
+    },
+    "campaign/assets/hd-c126/ink-attack-05-06.webp": {
+      "bytes": 2105144,
+      "sha256": "d09e171228f3f8a108a21ce3fabd9d9f37815d215cb166025c822a45dacb90a2"
+    },
+    "campaign/assets/hd-c126/ink-attack-07-08.webp": {
+      "bytes": 2125236,
+      "sha256": "b30e46e93152c544841f37e6db8305b19d49f2824bc8096f22df5e1286daad56"
+    },
+    "campaign/assets/hd-c126/ink-drop-01-02.webp": {
+      "bytes": 1783342,
+      "sha256": "dd636cf3c7ebf828efc7492d950c4394ec30a59f1e12f4e95ae9fa4ecb2c94a7"
+    },
+    "campaign/assets/hd-c126/ink-drop-03-04.webp": {
+      "bytes": 1919202,
+      "sha256": "39741fdf0bed96d1b57d86b73c988ab5236ac5cdaea9ca493005498ebd11e6d2"
+    },
+    "campaign/assets/hd-c126/ink-run-01-02.webp": {
+      "bytes": 1863054,
+      "sha256": "09224680ef4f1121e65eecce22646f3f6cd057518d2116335334a5b67889b8e9"
+    },
+    "campaign/assets/hd-c126/ink-run-03-04.webp": {
+      "bytes": 1920592,
+      "sha256": "76846f694eb1ca58bb8970f36359ff09d1ef83e64dc285d03d7a5885700bef15"
+    },
+    "campaign/assets/hd-c126/ink-run-05-06.webp": {
+      "bytes": 1903950,
+      "sha256": "376a6b092de856a7ebe2e883e7a5900343e209cd48c020b910aa0da7b3d9aa23"
+    },
+    "campaign/assets/hd-c126/ink-run-07-08.webp": {
+      "bytes": 1973434,
+      "sha256": "a5989de83e148b3b5f53c2314446b0bea868715b10f04c72747c3b96db6a8dc1"
+    },
+    "campaign/assets/hd-c126/paper-attack-01-02.webp": {
+      "bytes": 1682374,
+      "sha256": "6e23ea5bbef0c9319ddaac6ca1a50b46528618e4640c57e8c6bbb1353a7d00a9"
+    },
+    "campaign/assets/hd-c126/paper-attack-03-04.webp": {
+      "bytes": 1523600,
+      "sha256": "58fff1789a6741653324f1b28159d7f3000f4f7bf7864a31e06d342b669035c2"
+    },
+    "campaign/assets/hd-c126/paper-attack-05-06.webp": {
+      "bytes": 1826192,
+      "sha256": "d6628a4e60baece4bb70c102cefce0376f61ebcb1f413c04233526353dc11905"
+    },
+    "campaign/assets/hd-c126/paper-attack-07-08.webp": {
+      "bytes": 1656900,
+      "sha256": "1d0f3e59ff59903a9e11e53cd317cb0a8bd544e6b4f5faccebdf46114121287e"
+    },
+    "campaign/assets/hd-c126/paper-walk-01-02.webp": {
+      "bytes": 1353466,
+      "sha256": "dbe79347ac2348742a215e44a741243640ab89d296b572ad2e4d89395a652b78"
+    },
+    "campaign/assets/hd-c126/paper-walk-03-04.webp": {
+      "bytes": 1358886,
+      "sha256": "e07fadd2da053ad5e5bd92c60501783dad0dccf148da5e9fe961435533a4b3d1"
+    },
+    "campaign/assets/hd-c126/paper-walk-05-06.webp": {
+      "bytes": 1418784,
+      "sha256": "0f8df960e0e439910fe203275bf8e5e09054f3557ba4d8d2874f146596bdb3c6"
+    },
+    "campaign/assets/hd-c126/paper-walk-07-08.webp": {
+      "bytes": 1360362,
+      "sha256": "13c8a9933816e73c85758f6a526429eb5c8900aa316d397362065ee94f84c685"
+    },
+    "campaign/assets/ink-attack-v1.png": {
+      "bytes": 2400720,
+      "sha256": "f17bd06de9e04a5a5768701c0bc832d6c87e0e887eb859522456c0c7fbaa205f"
+    },
+    "campaign/assets/ink-drop-c122.png": {
+      "bytes": 2207919,
+      "sha256": "ae30532dd19c251818ec6a56f0cd401444e6d42a93256cdbbaec9ebe7e95f206"
+    },
+    "campaign/assets/ink-run-front-c105.png": {
+      "bytes": 2273907,
+      "sha256": "9e3aaa1d7ab2303124cd802ab952305743164fc7e6e3f34e903214bb0383475a"
+    },
+    "campaign/assets/ink-walk-v1.png": {
+      "bytes": 2554876,
+      "sha256": "d5f3581841a8a621596b38d7a76662918246c0846ace8a395d0cfaf7bc46a36f"
+    },
+    "campaign/assets/lantern-c128/attack-00-01.webp": {
+      "bytes": 1500380,
+      "sha256": "d020fe97d0f6ebb5afbba002c330b2b478b190c1ccd0a355199b7e5612362ffd"
+    },
+    "campaign/assets/lantern-c128/attack-02-03.webp": {
+      "bytes": 1573940,
+      "sha256": "06f27c4558b0508da5512297b63108f504fe6dd71de6dad5cc0ab31637d0281d"
+    },
+    "campaign/assets/lantern-c128/attack-04-05.webp": {
+      "bytes": 1554152,
+      "sha256": "81cb50bc077254881e4c4c41016bb9ee9e8d19b6489c277bab27517d1f313f93"
+    },
+    "campaign/assets/lantern-c128/attack-06-07.webp": {
+      "bytes": 1445342,
+      "sha256": "4464f520db1be3f8c935b09eaf2124d68db9437c186a5310ae7a3fa0f8c975b9"
+    },
+    "campaign/assets/lantern-c128/manifest.json": {
+      "bytes": 8227,
+      "sha256": "9b741d62dc73f5448f29a81e95270a121efbc4a2f96f6c1de697841cf3f63fdb"
+    },
+    "campaign/assets/lantern-c128/walk-00-01.webp": {
+      "bytes": 1588370,
+      "sha256": "818fef78c5fb488fce5af48f160834bd7ce1730dc58e9012791c09598d037ea7"
+    },
+    "campaign/assets/lantern-c128/walk-02-03.webp": {
+      "bytes": 1541870,
+      "sha256": "3dc5eba724c8ddab41730db858cf97a22ec3051140534f7200d466df5abf6aa3"
+    },
+    "campaign/assets/lantern-c128/walk-04-05.webp": {
+      "bytes": 1565052,
+      "sha256": "8cb9177247e5e421bd483639813f2db95941bad8174c60ff6ba848a5c1c75cc9"
+    },
+    "campaign/assets/lantern-c128/walk-06-07.webp": {
+      "bytes": 1534564,
+      "sha256": "a931c86111ac3bc470565bd11300081029c766a68f017e0cbdcc958b19c18654"
+    },
+    "campaign/assets/matrix-c136/attack-00-01.webp": {
+      "bytes": 2273984,
+      "sha256": "ae7479371723cbaa654dd1c9e02c3e7cfad05e360ea1e73bed3e1779f5b68c91"
+    },
+    "campaign/assets/matrix-c136/attack-02-03.webp": {
+      "bytes": 2198838,
+      "sha256": "0660754281d6612dc23d48a899770259ced4250800a7bbec2dfb593aeb50a05d"
+    },
+    "campaign/assets/matrix-c136/attack-04-05.webp": {
+      "bytes": 2205172,
+      "sha256": "d6ed37a81f029c8f1008e3099f664c93e8ce4b0ba790fa907e0c4c4e337088f1"
+    },
+    "campaign/assets/matrix-c136/attack-06-07.webp": {
+      "bytes": 2205388,
+      "sha256": "a66640c739fae73fb80df56566d30b43f23db60158231f592da89880e18a7f82"
+    },
+    "campaign/assets/matrix-c136/manifest.json": {
+      "bytes": 3767,
+      "sha256": "de68bde3ef05b0e3d1f94d23914fa4c8fc9b98c15098c0a79d101a90743d7002"
+    },
+    "campaign/assets/newsprint-c131/attack-00-01.webp": {
+      "bytes": 1819346,
+      "sha256": "b0b67cd5e2ce2383d9fcfc9a137a4d88d2e611a8b642a96846cde7a92e633c6a"
+    },
+    "campaign/assets/newsprint-c131/attack-02-03.webp": {
+      "bytes": 1829966,
+      "sha256": "461f2ffef3dd52dfd5f8e7e2c56a721bb59f0f8c00c970a6d2c5e211eabdbc12"
+    },
+    "campaign/assets/newsprint-c131/attack-04-05.webp": {
+      "bytes": 2091412,
+      "sha256": "7afe0d0a0025e25d9c79581f4a68aefc5fcccfe3ab1241d75c75854c4baf94b5"
+    },
+    "campaign/assets/newsprint-c131/attack-06-07.webp": {
+      "bytes": 1820588,
+      "sha256": "badd445d0f9ba95d28dd8252e3fa65b07bf954cdedf5782dc795e91d5df814f1"
+    },
+    "campaign/assets/newsprint-c131/manifest.json": {
+      "bytes": 3653,
+      "sha256": "105ea71ad1c3c45400c865e87a32c4dce213bea7596aa11ae5366f39001fbffa"
+    },
+    "campaign/assets/newsprint-c131/walk-00-01.webp": {
+      "bytes": 1842466,
+      "sha256": "4a36fbde40e662276d55aed740a4708128282af0962c3b31133267a92b58b93e"
+    },
+    "campaign/assets/newsprint-c131/walk-02-03.webp": {
+      "bytes": 1750490,
+      "sha256": "427db5c7857870825011ffdb78ac08cdeb2d2d04fbc935926a1b82d9f2b0c031"
+    },
+    "campaign/assets/newsprint-c131/walk-04-05.webp": {
+      "bytes": 1802888,
+      "sha256": "b78604ade3588796ca64f36b21c36cc6153ddf9fa9add536a7051328fbac8ad6"
+    },
+    "campaign/assets/newsprint-c131/walk-06-07.webp": {
+      "bytes": 1804222,
+      "sha256": "b1df7596b1b2db9557ab95abc8b600956563cb96047da7f8b40fd7be6de952fd"
+    },
+    "campaign/assets/paper-attack-painted-c100.png": {
+      "bytes": 2153301,
+      "sha256": "814daa446a60879ac02adbd8dcb98bc38c1fe8c2ed8892f02b72d897b6a38d20"
+    },
+    "campaign/assets/paper-walk-front-c111.png": {
+      "bytes": 2306414,
+      "sha256": "6e202f4f88841e22f77f117d4fc71356d183f1653c199d776b39a03557de2951"
+    },
+    "campaign/assets/paper-walk-painted-c100.png": {
+      "bytes": 2254353,
+      "sha256": "b484f30fca2b03014c4a6df5d1404d9b700d791474271643bd49c4b9fe097ec1"
+    },
+    "campaign/assets/plaza-v1.png": {
+      "bytes": 3822393,
+      "sha256": "f248e54c8ed3d047346af5f46a375f730d5211aa78931142321c78640bc5e04a"
+    },
+    "campaign/assets/shelter-foreground-c122.png": {
+      "bytes": 1017656,
+      "sha256": "26070274f08c25d396d699603ad1fd8c02dd987c1a4f9132a940177598e6c88f"
+    },
+    "campaign/assets/song-bridge-v1.png": {
+      "bytes": 3680151,
+      "sha256": "e020dfa6c28fcb08cda0910c6401c3883a86b2113d71c48dacfa880a62466996"
+    },
+    "campaign/assets/song-dragon-attack-v1.png": {
+      "bytes": 3433332,
+      "sha256": "8e26b8d22238356a3071cac0d2a5e99ca35ca3a5b15a54d04d6dd4a58fab9b49"
+    },
+    "campaign/assets/song-gallery-v1.png": {
+      "bytes": 3857234,
+      "sha256": "760018cb32fd5cd7db244cd7dc261467e253a5829be26ffc7149777d74bdc444"
+    },
+    "campaign/assets/song-lantern-attack-v1.png": {
+      "bytes": 2175176,
+      "sha256": "db35b212bfd6f464946aff0f5e70e20e335c35bc21008e078132baf222c30ed4"
+    },
+    "campaign/assets/song-lantern-walk-v1.png": {
+      "bytes": 2049996,
+      "sha256": "b5ddd24c2cbea2fee410ecd23d14cd61ac59d5186dc3cf7d7c573f084530e3d2"
+    },
+    "campaign/assets/song-market-v1.png": {
+      "bytes": 3789517,
+      "sha256": "51c7b79760f863cfb71ae49bdae36c31ca0b4529168e784d4dbbf9ad3c3e49e8"
+    },
+    "campaign/assets/song-underbridge-v1.png": {
+      "bytes": 3752183,
+      "sha256": "ddcb99e7d4f7240ecba4445dae0648083111fc30e8d2267db88168436a7bb4f1"
+    },
+    "campaign/assets/vfx-c124/enemy-cleave-c124.png": {
+      "bytes": 1201449,
+      "sha256": "7dd2900fdbd2c2d266761a2b0040c9c755430e7ff2afbbd1e4b1cf9e0b5665c5"
+    },
+    "campaign/assets/vfx-c124/pressure-impact-c124.png": {
+      "bytes": 1371002,
+      "sha256": "d556f5f17f5702bb97de6a03787202c850bc1d943acee2618fcc401795460700"
+    },
+    "campaign/assets/water-troops-c129.json": {
+      "bytes": 8340,
+      "sha256": "39fd7b82ef2022a1484a50e694832a5a0063764e3114a3114a7b08875a94ad54"
+    },
+    "campaign/assets/wheel-c132/attack-00-01.webp": {
+      "bytes": 2105566,
+      "sha256": "89e04c2f433ac7e7a9be8e9cae2690bdabc3f407e129ba7aa5150d55d60027eb"
+    },
+    "campaign/assets/wheel-c132/attack-02-03.webp": {
+      "bytes": 2058660,
+      "sha256": "3f58b5847d8b279763a862c7de759ce8dbc52f40a428adfdf3a57559011978f6"
+    },
+    "campaign/assets/wheel-c132/attack-04-05.webp": {
+      "bytes": 2080906,
+      "sha256": "812a731636c9561bdbab0886e483ebca1c8e612fd06a473bd0689f60305c72c7"
+    },
+    "campaign/assets/wheel-c132/attack-06-07.webp": {
+      "bytes": 2126358,
+      "sha256": "a34ddf0d21943b3e6d0ec50feb12917468ba60c7e912dcfe258d7463611fd0ba"
+    },
+    "campaign/assets/wheel-c132/manifest.json": {
+      "bytes": 4757,
+      "sha256": "296af75c45dd8296ca772d8fd7faab3343f2d07f2dc6c8484368dde1ec09ae62"
+    },
+    "campaign/assets/wheel-c132/roll-00-01.webp": {
+      "bytes": 2131846,
+      "sha256": "ccc780fef0aef9e682b96c4260e5018811938393a38798df89f33c728e93701b"
+    },
+    "campaign/assets/wheel-c132/roll-02-03.webp": {
+      "bytes": 2027016,
+      "sha256": "fcd929b8a96e392f85044bc544ff0fb9154e4b7b3a1d89ee6f7e085fe55f81c5"
+    },
+    "campaign/assets/wheel-c132/roll-04-05.webp": {
+      "bytes": 2192458,
+      "sha256": "16591f89304fe371f70751f4b6df67d7734c786d64f90e75e86e23c00dc6f735"
+    },
+    "campaign/assets/wheel-c132/roll-06-07.webp": {
+      "bytes": 2135806,
+      "sha256": "731d7b068519c701a4e03eeb817104da91d90886ab2907d035e0eec08821bf3f"
+    },
+    "quality/assets/brass-v2.png": {
+      "bytes": 3234502,
+      "sha256": "36490e481bc2c20d53609de395c4bc3e6a7e4538952f526ceb87c4118dbf853f"
+    },
+    "quality/assets/gate-painted-v1.png": {
+      "bytes": 3581239,
+      "sha256": "f3b577e8d11ac7ec488792c80583adf8da58e524499e9bbb522583c92456fdad"
+    },
+    "quality/assets/guardian-attack-clock-v4.png": {
+      "bytes": 2012723,
+      "sha256": "63f40b554af9f027a92f70080fad1f637fab578f7597cdfbdcb819487636ad67"
+    },
+    "quality/assets/guardian-walk-crisp-v4.png": {
+      "bytes": 2018104,
+      "sha256": "3e6a333cac63c899eb260188b4667ef5477f6d9d7b8e130340304e25610fe177"
+    },
+    "quality/assets/guardpost-painted-v1.png": {
+      "bytes": 3655599,
+      "sha256": "ccfb9c81fe0f9fb3f00cfea219aa1eca4ef5210d08f5b04ca8a5557d8f812a6a"
+    },
+    "quality/assets/hall-painted-v1.png": {
+      "bytes": 3556617,
+      "sha256": "d6ed3733e51d7228e9968fb03daf1288b97f0ce88966d7658fda4e1ec93e4ef9"
+    },
+    "quality/assets/material-atlas-v1.png": {
+      "bytes": 3254299,
+      "sha256": "cfc8188e3d4421843edc6cd058e8a4bc8b912977771576092091cb2950ccde26"
+    },
+    "quality/assets/paper-guardian-atlas-v1.png": {
+      "bytes": 1685265,
+      "sha256": "0d540fabb72f0ee84c2c7fab57aab48d908b4aaeeade2cfcdebab90c789df74e"
+    },
+    "quality/assets/press-held-compact-v2.png": {
+      "bytes": 2191959,
+      "sha256": "044e2ff7fe623dab25d43549acffb2d5c23883d8528bf1f351e31d5e6a1ccf8a"
+    },
+    "quality/assets/sky-v2.png": {
+      "bytes": 2083160,
+      "sha256": "fb8db26a1dfa0d03f5047d1c466e0a2b88d1bd2c242ebfb6b94b5bc9e54a0225"
+    },
+    "quality/assets/weapon-bow-v1.png": {
+      "bytes": 2248228,
+      "sha256": "b3812fd1dd3bfbf392ba45de2a6f3035ad7c6aca4c0e591d0b96580cd8c4159a"
+    },
+    "quality/assets/weapon-ink-v1.png": {
+      "bytes": 2216703,
+      "sha256": "e3f9e1926e505fc506d92569d0aa9be74f1c3c7bcc7a08f567b88c99b9024492"
+    },
+    "quality/assets/weapon-wheel-v1.png": {
+      "bytes": 2569760,
+      "sha256": "deabf389c3417c832b849e3b0fce9b6f29d6ddde3cfaca71af12479c894d81b1"
+    }
+  }
+}
